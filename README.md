@@ -6,12 +6,12 @@ This project explores short-term volatility forecasting for the S&P 500 using bo
 
 ## 📘 Project Overview
 
-- **Objective**: Predict 1–5 day ahead volatility using statistical models (GARCH/GARCH-X) and deep learning (LSTM), with a focus on improving forecast accuracy during different market regimes.
+- **Objective**: Predict 1–5 day ahead volatility using statistical models (GARCH) and deep learning (LSTM), with a focus on improving forecast accuracy during different market regimes.
 - **Techniques**: 
   - Volatility clustering analysis
   - Stationarity testing
   - Regime detection (Bull, Choppy, Crisis)
-  - GARCH and GARCH-X modeling
+  - GARCH modeling
   - LSTM with engineered volatility and regime features
   - Model explainability using SHAP values
   - Visual and quantitative model comparisons
