@@ -31,13 +31,13 @@ This project explores short-term volatility forecasting for the S&P 500 using bo
 ## 📊 Sample Outputs
 
 ### 📉 Final Model Comparison
-![Volatility Comparison](images/Final model comparison.png)
+![Final Model Comparison](images/Final_model_comparison.png)
 
 ### 🧠 SHAP Feature Evaluation
-![SHAP Summary](images/Shap Evaluation.png)
+![SHAP Evaluation](images/Shap_Evaluation.png)
 
 ### 🏋️‍♀️ Training Performance
-![Training Evaluation](images/Training evaluation.png)
+![Training Evaluation](images/Training_evaluation.png)
 
 ---
 
