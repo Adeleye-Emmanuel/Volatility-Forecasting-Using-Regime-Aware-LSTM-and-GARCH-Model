@@ -69,7 +69,6 @@ jupyter notebook "Volatility Forecasting.ipynb"
 | Model         | Highlights                                               |
 |---------------|----------------------------------------------------------|
 | **GARCH**     | Baseline with volatility clustering                      |
-| **GARCH-X**   | Adds macro indicators, regime states as exogenous vars   |
 | **LSTM**      | Learns temporal dependencies & nonlinear volatility patterns |
 | **Hybrid**    | LSTM with engineered GARCH residuals and volatility terms |
 
