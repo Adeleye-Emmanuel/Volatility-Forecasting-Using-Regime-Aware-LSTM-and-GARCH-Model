@@ -18,26 +18,16 @@ This project explores short-term volatility forecasting for the S&P 500 using bo
 
 ---
 
-## 📁 Files
-
-- `Volatility Forecasting.ipynb`: Full analysis, modeling, and evaluation pipeline
-- `images/`
-  - `volatility_comparison.png` – Final volatility forecast comparison between models
-  - `shap_summary.png` – SHAP feature importance for LSTM model
-  - `training_evaluation.png` – Training and validation loss (MSE, MAE) over epochs
-
----
-
 ## 📊 Sample Outputs
 
-### 📉 Final Model Comparison
-![Final Model Comparison](images/Final_model_comparison.png)
+### 📉 5-Day Volatility Forecast
+![5-Day Volatility Forecast](images/5-Day Volatility Forecast.png)
+
+### 📉 Benchmark Comparison
+![Benchmark Comparison](images/Benchmark Comparison.png)
 
 ### 🧠 SHAP Feature Evaluation
 ![SHAP Evaluation](images/Shap_Evaluation.png)
-
-### 🏋️‍♀️ Training Performance
-![Training Evaluation](images/Training_evaluation.png)
 
 ---
 
