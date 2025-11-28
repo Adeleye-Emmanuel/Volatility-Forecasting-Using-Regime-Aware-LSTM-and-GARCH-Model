@@ -21,10 +21,10 @@ This project explores short-term volatility forecasting for the S&P 500 using bo
 ## 📊 Sample Outputs
 
 ### 📉 5-Day Volatility Forecast
-![5-Day Volatility Forecast](images/5-Day Volatility Forecast.png)
+![5-Day Volatility Forecast](images/5-Day_Volatility_Forecast.png)
 
 ### 📉 Benchmark Comparison
-![Benchmark Comparison](images/Benchmark Comparison.png)
+![Benchmark Comparison](images/Benchmark_Comparison.png)
 
 ### 🧠 SHAP Feature Evaluation
 ![SHAP Evaluation](images/Shap_Evaluation.png)
